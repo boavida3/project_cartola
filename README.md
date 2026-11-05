@@ -4,4 +4,4 @@
 
 A handy assistant.
 
-**Stay tuned.**
+Stay tuned..!
